@@ -40,6 +40,8 @@ Payment (any address):
 - Wallet Analyzer: http://208.87.201.210/wallet-analyzer.html
 - Token Generator: https://jiezishu000.github.io/token-deployer/
 - Gas Tracker: https://jiezishu000.github.io/gas-tracker/
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 Contributions welcome! Add tools, patterns, or resources.
 
